@@ -1,0 +1,7 @@
+﻿  Lab6_queue.cpp
+E:\Sem 2\CIS 200L\Lab6\queueType.h(143,1): warning C4812: obsolete declaration style: please use 'queueType<Type>::queueType' instead
+E:\Sem 2\CIS 200L\Lab6\queueType.h(143,1): warning C4812: obsolete declaration style: please use 'queueType<int>::queueType' instead
+E:\Sem 2\CIS 200L\Lab6\queueType.h(144): message : while compiling class template member function 'queueType<int>::queueType(int)'
+E:\Sem 2\CIS 200L\Lab6\Lab6_queue.cpp(21): message : see reference to function template instantiation 'queueType<int>::queueType(int)' being compiled
+E:\Sem 2\CIS 200L\Lab6\Lab6_queue.cpp(21): message : see reference to class template instantiation 'queueType<int>' being compiled
+  Lab6.vcxproj -> E:\Sem 2\CIS 200L\Lab6\x64\Debug\Lab6.exe

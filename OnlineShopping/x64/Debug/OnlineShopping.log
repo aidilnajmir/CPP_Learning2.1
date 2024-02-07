@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Sem 2\CIS 200L\OnlineShopping\Source.cpp(20,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Sem 2\CIS 200L\OnlineShopping\Source.cpp(35,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Sem 2\CIS 200L\OnlineShopping\Source.cpp(92,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Sem 2\CIS 200L\OnlineShopping\Source.cpp(312,20): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

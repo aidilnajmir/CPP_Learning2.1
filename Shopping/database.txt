@@ -1,0 +1,6 @@
+ 1 laptop 1000
+ 2 mouse 30
+ 3 webcam 45
+ 4 keyboard 200
+ 5 printer 150
+ 6 tablet 450

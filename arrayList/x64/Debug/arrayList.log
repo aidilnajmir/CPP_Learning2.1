@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\Sem 2\CIS 200L\arrayList\Source.cpp(30,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  arrayListType.cpp
+  unorderedArrayListType.cpp
+E:\Sem 2\CIS 200L\arrayList\unorderedArrayListType.cpp(50,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  arrayList.vcxproj -> E:\Sem 2\CIS 200L\arrayList\x64\Debug\arrayList.exe

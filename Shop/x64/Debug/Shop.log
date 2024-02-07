@@ -1,0 +1,2 @@
+﻿  Shop.cpp
+E:\Sem 2\CIS 200L\Shop\Shop.cpp(10,9): fatal error C1083: Cannot open include file: 'bits/stdc++.h': No such file or directory

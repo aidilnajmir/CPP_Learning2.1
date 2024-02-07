@@ -1,0 +1,51 @@
+﻿  personType.cpp
+E:\Sem 2\CIS 200L\Lab1\personType.h(8,15): error C2061: syntax error: identifier 'string'
+E:\Sem 2\CIS 200L\Lab1\personType.h(9,9): error C3646: 'getFirstName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(9,21): error C2059: syntax error: '('
+E:\Sem 2\CIS 200L\Lab1\personType.h(9,29): error C2238: unexpected token(s) preceding ';'
+E:\Sem 2\CIS 200L\Lab1\personType.h(10,9): error C3646: 'getLastName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(10,20): error C2059: syntax error: '('
+E:\Sem 2\CIS 200L\Lab1\personType.h(10,28): error C2238: unexpected token(s) preceding ';'
+E:\Sem 2\CIS 200L\Lab1\personType.h(11,13): error C2061: syntax error: identifier 'string'
+E:\Sem 2\CIS 200L\Lab1\personType.h(14,9): error C3646: 'firstName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(14,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Sem 2\CIS 200L\Lab1\personType.h(15,9): error C3646: 'lastName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(15,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(8,27): error C2065: 'firstName': undeclared identifier
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(8,47): error C2065: 'lastName': undeclared identifier
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(11,53): error C2511: 'void personType::setName(std::string,std::string)': overloaded member function not found in 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.h(4): message : see declaration of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(12,2): error C2065: 'firstName': undeclared identifier
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(13,2): error C2065: 'lastName': undeclared identifier
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(16,20): error C2039: 'getFirstName': is not a member of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.h(4): message : see declaration of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(16,41): error C2270: 'getFirstName': modifiers not allowed on nonmember functions
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(17,9): error C2065: 'firstName': undeclared identifier
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(20,20): error C2039: 'getLastName': is not a member of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.h(4): message : see declaration of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(20,40): error C2270: 'getLastName': modifiers not allowed on nonmember functions
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(21,9): error C2065: 'lastName': undeclared identifier
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(24,51): error C2511: 'personType::personType(std::string,std::string)': overloaded member function not found in 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.h(4): message : see declaration of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(25,2): error C2065: 'firstName': undeclared identifier
+E:\Sem 2\CIS 200L\Lab1\personType.cpp(26,2): error C2065: 'lastName': undeclared identifier
+  Source.cpp
+E:\Sem 2\CIS 200L\Lab1\personType.h(8,15): error C2061: syntax error: identifier 'string'
+E:\Sem 2\CIS 200L\Lab1\personType.h(9,9): error C3646: 'getFirstName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(9,21): error C2059: syntax error: '('
+E:\Sem 2\CIS 200L\Lab1\personType.h(9,29): error C2238: unexpected token(s) preceding ';'
+E:\Sem 2\CIS 200L\Lab1\personType.h(10,9): error C3646: 'getLastName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(10,20): error C2059: syntax error: '('
+E:\Sem 2\CIS 200L\Lab1\personType.h(10,28): error C2238: unexpected token(s) preceding ';'
+E:\Sem 2\CIS 200L\Lab1\personType.h(11,13): error C2061: syntax error: identifier 'string'
+E:\Sem 2\CIS 200L\Lab1\personType.h(14,9): error C3646: 'firstName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(14,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Sem 2\CIS 200L\Lab1\personType.h(15,9): error C3646: 'lastName': unknown override specifier
+E:\Sem 2\CIS 200L\Lab1\personType.h(15,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Sem 2\CIS 200L\Lab1\Source.cpp(11,61): error C2660: 'personType::setName': function does not take 2 arguments
+E:\Sem 2\CIS 200L\Lab1\personType.h(8,7): message : see declaration of 'personType::setName'
+E:\Sem 2\CIS 200L\Lab1\Source.cpp(12,10): error C2039: 'getFirstName': is not a member of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.h(4): message : see declaration of 'personType'
+E:\Sem 2\CIS 200L\Lab1\Source.cpp(13,10): error C2039: 'getLastName': is not a member of 'personType'
+E:\Sem 2\CIS 200L\Lab1\personType.h(4): message : see declaration of 'personType'
+  Generating Code...

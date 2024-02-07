@@ -1,0 +1,10 @@
+﻿  Source.cpp
+E:\Sem 2\CIS 200L\Final\Source.cpp(6,2): error C2065: 'list': undeclared identifier
+E:\Sem 2\CIS 200L\Final\Source.cpp(6,7): error C2275: 'std::string': illegal use of this type as an expression
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4920): message : see declaration of 'std::string'
+E:\Sem 2\CIS 200L\Final\Source.cpp(6,14): error C2065: 'teamNames': undeclared identifier
+E:\Sem 2\CIS 200L\Final\Source.cpp(7,2): error C2065: 'teamNames': undeclared identifier
+E:\Sem 2\CIS 200L\Final\Source.cpp(8,2): error C2065: 'teamNames': undeclared identifier
+E:\Sem 2\CIS 200L\Final\Source.cpp(9,2): error C2065: 'teamNames': undeclared identifier
+E:\Sem 2\CIS 200L\Final\Source.cpp(10,2): error C2065: 'teamNames': undeclared identifier
+E:\Sem 2\CIS 200L\Final\Source.cpp(11,10): error C2065: 'teamNames': undeclared identifier
